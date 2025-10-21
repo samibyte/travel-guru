@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "COX’S BAZAR",
+    "image": "/images/coxsbazar.jpg",
+    "description": "Cox’s Bazar is one of the most popular tourist destinations in Bangladesh, famous for having the world’s longest natural sandy beach that stretches over 120 kilometers along the southeastern coastline. The turquoise waters of the Bay of Bengal, combined with the golden sand and rows of palm trees, create a breathtaking view. Tourists visit Cox’s Bazar not only to enjoy the sea but also to explore nearby attractions such as Inani Beach, Himchari National Park, and Saint Martin’s Island. The town is also known for its seafood cuisine, local handicrafts, and vibrant beachside culture that comes alive in the evenings."
+  },
+  {
+    "id": 2,
+    "name": "SREEMANGAL",
+    "image": "/images/sreemangal.jpg",
+    "description": "Sreemangal, often called the Tea Capital of Bangladesh, is a serene hill town located in the Sylhet Division. Covered in endless green tea gardens, lemon orchards, and pineapple plantations, the region offers a refreshing escape into nature. Visitors can experience the calm of Lawachara National Park, where gibbons and exotic birds roam freely, or take a quiet walk through the tea estates and tribal villages. The Seven Color Tea, a famous local specialty, adds to Sreemangal’s unique charm. Its cool weather, misty mornings, and rolling hills make it an ideal destination for those seeking peace and natural beauty."
+  },
+  {
+    "id": 3,
+    "name": "SUNDARBANS",
+    "image": "/images/sundarbans.jpg",
+    "description": "The Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site, shared between Bangladesh and India. It is an intricate network of tidal waterways, mudflats, and small islands, home to a rich diversity of wildlife including the iconic Royal Bengal Tiger, spotted deer, saltwater crocodiles, and countless bird species. Tourists can explore the region by boat, traveling through narrow creeks surrounded by dense forest. The Sundarbans is not just an ecological treasure but also a vital natural shield against coastal erosion and cyclones. Its raw beauty and mystery make it one of the most extraordinary natural destinations in South Asia."
+  },
+  {
+    "id": 4,
+    "name": "BANDARBAN",
+    "image": "/images/bandarban.jpg",
+    "description": "Bandarban is a hill district in southeastern Bangladesh known for its lush green mountains, tribal culture, and breathtaking waterfalls. It is home to the country’s highest peaks, including Tahjindong and Keokradong, and the famous Nilgiri and Nilachal viewpoints that offer spectacular sunrise and sunset views. The region is rich with cultural diversity, featuring Marma, Tripura, and Mro communities. Visitors can enjoy adventurous trekking, boating in the Sangu River, and exploring hidden gems like Nafakhum Waterfall and Boga Lake. Bandarban’s untouched natural charm makes it a paradise for explorers and photographers alike."
+  },
+  {
+    "id": 5,
+    "name": "SAINT MARTIN’S ISLAND",
+    "image": "/images/saintmartin.jpg",
+    "description": "Saint Martin’s Island is the only coral island in Bangladesh, located about 9 kilometers south of the Cox’s Bazar-Teknaf peninsula. Surrounded by crystal-clear blue waters, coral reefs, and coconut palms, it offers a tropical experience unmatched elsewhere in the country. The island is small enough to explore on foot, and visitors can enjoy snorkeling, kayaking, and fresh seafood by the beach. Its calm and peaceful atmosphere, especially at night under a sky full of stars, makes it a favorite for couples and nature enthusiasts seeking a serene escape from city life."
+  },
+  {
+    "id": 6,
+    "name": "KUAKATA",
+    "image": "/images/kuakata.jpg",
+    "description": "Kuakata, known as the Daughter of the Sea, is a unique coastal destination in southern Bangladesh where visitors can witness both sunrise and sunset over the Bay of Bengal. The 18-kilometer-long beach is wide, flat, and less crowded than Cox’s Bazar, making it ideal for peaceful walks and sea bathing. Beyond the beach, tourists can explore Buddhist temples, local fishing villages, and Fatrar Char island. Kuakata’s tranquil setting and scenic beauty make it a hidden gem for those looking for an unspoiled seaside experience."
+  },
+  {
+    "id": 7,
+    "name": "SYLHET",
+    "image": "/images/sylhet.jpg",
+    "description": "Sylhet is a picturesque region in northeastern Bangladesh, surrounded by tea gardens, rolling hills, and crystal-clear rivers. The city is known for its spiritual heritage, being home to the shrine of Hazrat Shah Jalal, and its scenic beauty that attracts both pilgrims and travelers. Visitors can explore Ratargul Swamp Forest, Jaflong’s stone-covered riversides, and Bisnakandi’s mountain streams. Sylhet’s blend of culture, spirituality, and lush greenery creates an experience that feels both peaceful and invigorating."
+  },
+  {
+    "id": 8,
+    "name": "RANGAMATI",
+    "image": "/images/rangamati.jpg",
+    "description": "Rangamati, often called the Lake City of Bangladesh, is a tranquil hill district filled with deep blue lakes, forest-covered hills, and a rich tribal heritage. The main attraction, Kaptai Lake, offers mesmerizing boat rides through scenic waterways connecting villages and small islands. Visitors can experience local culture at the tribal markets, visit the Hanging Bridge, or relax in traditional bamboo cottages overlooking the lake. Rangamati’s charm lies in its peaceful environment, making it a perfect retreat for travelers seeking quiet beauty and cultural depth."
+  }
+]
