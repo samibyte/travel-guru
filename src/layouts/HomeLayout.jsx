@@ -16,7 +16,7 @@ const HomeLayout = () => {
 
       {/* Content */}
       <div className="relative z-10 container mx-auto">
-        <header>
+        <header className="pt-10">
           <Navbar />
         </header>
         <main>
