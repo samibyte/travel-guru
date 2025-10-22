@@ -1,8 +1,11 @@
-import { Outlet } from "react-router";
+import { Outlet, useLoaderData } from "react-router";
 import Navbar from "../components/Navbar";
 import bgImage from "../assets/images/coxbazar.png";
 
 const HomeLayout = () => {
+  const { records } = useLoaderData();
+  console.log(records);
+
   return (
     <div className="relative min-h-screen">
       {/* Background Image */}
@@ -15,12 +18,12 @@ const HomeLayout = () => {
       <div className="absolute inset-0 bg-black opacity-50"></div>
 
       {/* Content */}
-      <div className="relative z-10 container mx-auto">
-        <header className="pt-10">
+      <div className="relative z-10 ">
+        <header className="pt-10 container mx-auto">
           <Navbar />
         </header>
-        <main>
-          <Outlet />
+        <main className="mt-40">
+          <Outlet context={records} />
         </main>
       </div>
     </div>
